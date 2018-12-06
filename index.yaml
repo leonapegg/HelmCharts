@@ -1,0 +1,2114 @@
+apiVersion: v1
+entries:
+    wordpress:
+  - appVersion: 4.9.8
+    created: 2018-12-06T09:25:16.737722306Z
+    description: Web publishing platform for building blogs and websites.
+    digest: af2ae4e28cf427dcb4374144288e4d36113c2cfcc200c9e9367a19ce06b80fff
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-4.0.0.tgz
+    version: 4.0.0
+  - appVersion: 4.9.8
+    created: 2018-11-20T15:55:26.113051692Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 61a5e1658bf65063c318322a180e59d6928e96c6cdf856e2efcbf49a28c08357
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.3.0.tgz
+    version: 3.3.0
+  - appVersion: 4.9.8
+    created: 2018-10-31T09:54:54.351718596Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 2add3b9a54bd21cb1c68da801f9fc295f684839989e4328e6441893c0696fb04
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.2.1.tgz
+    version: 3.2.1
+  - appVersion: 4.9.8
+    created: 2018-10-17T14:55:19.652369582Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 787ea0f23fd845d193fefe1f7c735d1c557a587fbb2e5d85bc45a331f8c6a339
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.2.0.tgz
+    version: 3.2.0
+  - appVersion: 4.9.8
+    created: 2018-10-16T08:24:46.744712707Z
+    description: Web publishing platform for building blogs and websites.
+    digest: a135d90e1526ecee7c43f78b6beabb9c3a8b537f6d5c15823ac89c2201edbf6f
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.1.1.tgz
+    version: 3.1.1
+  - appVersion: 4.9.8
+    created: 2018-10-11T10:54:45.176138474Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 062e292aaa84c4a5ca71baa71e2e2191b6d6903dd57284b723327f73c9a37331
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.1.0.tgz
+    version: 3.1.0
+  - appVersion: 4.9.8
+    created: 2018-10-10T13:55:30.201753259Z
+    description: Web publishing platform for building blogs and websites.
+    digest: a810edbcdc01c0e00e5ca7879b92fc84a5323640aa811c83c87274576d7a5f1b
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.0.4.tgz
+    version: 3.0.4
+  - appVersion: 4.9.8
+    created: 2018-10-10T10:55:23.579319438Z
+    description: Web publishing platform for building blogs and websites.
+    digest: e9aeadf0008ab9f6e56dbddfa790173a80d4c0c29d017a830d5eb41617d5106d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.0.3.tgz
+    version: 3.0.3
+  - appVersion: 4.9.8
+    created: 2018-10-05T11:25:16.888197084Z
+    description: Web publishing platform for building blogs and websites.
+    digest: f392a99cdfb59a15e7b4b576180c1af027a090d4cae0126572f09a16dbadbea4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.0.2.tgz
+    version: 3.0.2
+  - appVersion: 4.9.8
+    created: 2018-09-29T16:55:10.185158555Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 499b91ff278f45d7f2dc0f78480de0af4e51e7826b2ae17bff43773210f3b395
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.0.1.tgz
+    version: 3.0.1
+  - appVersion: 4.9.8
+    created: 2018-09-25T11:26:15.97382477Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 4b87037676e602d79e72d7ba4f034d85b143e1653376649c18d4bc14d40deba7
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-3.0.0.tgz
+    version: 3.0.0
+  - appVersion: 4.9.8
+    created: 2018-09-20T04:56:01.956240757Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 5aced72f798462f9c55cc53ab4c6a97b60901f218799508e76c541e3e74a305b
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.10.tgz
+    version: 2.1.10
+  - appVersion: 4.9.8
+    created: 2018-08-15T07:56:05.895089048Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 9e34f235c77122cad1831d6ceb646be3ed86e8a4c8ec1765002bd6579abba2e1
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.9.tgz
+    version: 2.1.9
+  - appVersion: 4.9.8
+    created: 2018-08-14T18:25:00.054336879Z
+    description: Web publishing platform for building blogs and websites.
+    digest: f252f1c76460c85039bf98d1e09b22d201a74e07abcaab9a41244dcf50987dd1
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.8.tgz
+    version: 2.1.8
+  - appVersion: 4.9.8
+    created: 2018-08-10T08:24:52.510376441Z
+    description: Web publishing platform for building blogs and websites.
+    digest: fcb5bb6415a15a393e65dffcd3e17f5532d7c680c21d688915ad438bf68b829a
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.7.tgz
+    version: 2.1.7
+  - appVersion: 4.9.8
+    created: 2018-08-07T14:25:02.382697862Z
+    description: Web publishing platform for building blogs and websites.
+    digest: ba161ae7b9cb2d511077f94c21d42097af09a48a52c558aea221bcf61f15c6a2
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.6.tgz
+    version: 2.1.6
+  - appVersion: 4.9.8
+    created: 2018-08-05T13:54:45.001124745Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 64721eee4ceffb15dbf650ef0f878514c84e645a43e228503479d67a872267c6
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.5.tgz
+    version: 2.1.5
+  - appVersion: 4.9.7
+    created: 2018-08-03T06:55:45.16450881Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 85dd31a171ed59f2f416174017d14f14b39ff136435578f538e83bffbd99ed39
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.4.tgz
+    version: 2.1.4
+  - appVersion: 4.9.7
+    created: 2018-07-30T17:25:14.335348782Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 46bc491b6a90939b7a131cceb4af49076fde73ed018ae182645a2ec8f20176ac
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.3.tgz
+    version: 2.1.3
+  - appVersion: 4.9.7
+    created: 2018-07-10T08:55:08.133352735Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 47e0b86adf01c400de6107865aef34b793da5a4e5b7878c7e35e41d6f1946b11
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.2.tgz
+    version: 2.1.2
+  - appVersion: 4.9.7-debian-9
+    created: 2018-07-09T14:54:51.609879246Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 17cbc01a0b4b4cd28d957f900443e2cf2d8a27375a0ed8a62b010ad04b731dab
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.1.tgz
+    version: 2.1.1
+  - appVersion: 4.9.6
+    created: 2018-07-06T07:25:06.364378154Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 4253a81a0c0179553d21dfcc238fcbfd27009f0e2422d4feba19e927b241ff92
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.1.0.tgz
+    version: 2.1.0
+  - appVersion: 4.9.6
+    created: 2018-07-03T16:55:29.751950171Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 77a1f3e0a91a4bcac88411356844d0d089c7885fdf2383c859ae9ec89815d0e0
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.0.1.tgz
+    version: 2.0.1
+  - appVersion: 4.9.6
+    created: 2018-06-29T07:24:39.154587067Z
+    description: Web publishing platform for building blogs and websites.
+    digest: dc199bac86b6d8e36b542516c6c2b3345d1be755dd34d6761046ed979ba9b0bc
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-2.0.0.tgz
+    version: 2.0.0
+  - appVersion: 4.9.6
+    created: 2018-06-13T15:24:49.640101438Z
+    description: Web publishing platform for building blogs and websites.
+    digest: add927d3922a99c4f08d570b0515f68abf4991de7c5fb74b22d3aa832571a836
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.10.tgz
+    version: 1.0.10
+  - appVersion: 4.9.6
+    created: 2018-06-05T12:55:14.107169133Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 8029bad6d4014c7abb86ec21d7edeb6cec262a5c31ef0e9f8ea13a63786eabed
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.9.tgz
+    version: 1.0.9
+  - appVersion: 4.9.6
+    created: 2018-05-24T20:41:43.256307314Z
+    description: Web publishing platform for building blogs and websites.
+    digest: cade45b86da5930858c98131b1a4185fefd1a80148cc4af2257c97cf17949797
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.7.tgz
+    version: 1.0.7
+  - appVersion: 4.9.5
+    created: 2018-05-20T20:56:49.681875325Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 13efcb3c8dcfe773a8242b8fd8a70661d52f3359cbd972a7f4564b298d29b887
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.6.tgz
+    version: 1.0.6
+  - appVersion: 4.9.5
+    created: 2018-05-10T10:56:23.866361412Z
+    description: Web publishing platform for building blogs and websites.
+    digest: b8c96e3650b6e29f12ef99cfd4833e9b0c3a7e30082ed579472fe02bc94e745b
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.5.tgz
+    version: 1.0.5
+  - appVersion: 4.9.5
+    created: 2018-04-26T10:11:21.446877964Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 31d165b9ec03930ec4b9a9b126e3d67ff979a41b84af847fc90b13fb435c9927
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.4.tgz
+    version: 1.0.4
+  - appVersion: 4.9.4
+    created: 2018-04-23T23:56:29.563440805Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 93f3b7a6d0bf20b959504ce49d4247409f429d1a68b7ca2b89d0dc8ffa43bc31
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.3.tgz
+    version: 1.0.3
+  - appVersion: 4.9.4
+    created: 2018-04-22T07:41:21.73383552Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0a6726b9f3a732355ba67c7fedb2f5e3ace79ec634785ef9ac9032859f15d852
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.2.tgz
+    version: 1.0.2
+  - appVersion: 4.9.4
+    created: 2018-04-13T08:11:49.669789143Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 40f35683783945f17d8454e158c407d1c0021ac3b6d5f15ef4fdbc9a2c36a7d6
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.1.tgz
+    version: 1.0.1
+  - appVersion: 4.9.4
+    created: 2018-04-10T21:26:18.890469805Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 20c9e32f4facb56bb13be06433a45459747b78c7e8a0c6c8df98614a1661fd77
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.0.tgz
+    version: 1.0.0
+  - appVersion: 4.9.4
+    created: 2018-04-04T12:11:39.14500503Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 701255bbdff7050ed7553ce06ef125079da2a2d07fd4265cf97180a97bb5ba2f
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.18.tgz
+    version: 0.8.18
+  - appVersion: 4.9.4
+    created: 2018-04-02T09:56:39.081999437Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 030443878ffc90c06418d177ed547e1cd0058cb2c8ae7fba657ec51d7e7be72d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.17.tgz
+    version: 0.8.17
+  - appVersion: 4.9.4
+    created: 2018-03-29T21:41:23.053964401Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 763eba1905815dcad9843e5f3633854a339e2c7b0380c8f4d487490564030bc1
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.16.tgz
+    version: 0.8.16
+  - appVersion: 4.9.4
+    created: 2018-03-19T11:41:20.339596073Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0cab9a01483f0fca70575795173429673f7f089a7f247061d867cbe7e1922804
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.15.tgz
+    version: 0.8.15
+  - appVersion: 4.9.4
+    created: 2018-03-19T10:10:55.764031233Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 841863925abfa782036f1c1e25e7fa3560aac249ff4db9ac401d9027e564a7d6
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.14.tgz
+    version: 0.8.14
+  - appVersion: 4.9.4
+    created: 2018-03-16T19:41:03.501410004Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 752c88871e77b323104b7ad090709e2c4c5c4ed7d7dcb7d3f16f7acceb852a42
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.13.tgz
+    version: 0.8.13
+  - appVersion: 4.9.4
+    created: 2018-03-16T09:56:08.582742485Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 16cc7cfb534717558fc4b387378045cfac28095505a394148c94a47948fa4532
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.12.tgz
+    version: 0.8.12
+  - appVersion: 4.9.4
+    created: 2018-03-13T20:26:05.874996415Z
+    description: Web publishing platform for building blogs and websites.
+    digest: bc84e228b7e00b80aa740767be7a8872d93e4afcf6ccebbb9833da8815ab79ba
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.11.tgz
+    version: 0.8.11
+  - appVersion: 4.9.4
+    created: 2018-03-12T14:56:01.70489867Z
+    description: Web publishing platform for building blogs and websites.
+    digest: b52fe2f9b04b010993b63e02416d6d532d6c15b00daaa7a40f459ea55a486824
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.10.tgz
+    version: 0.8.10
+  - appVersion: 4.9.4
+    created: 2018-03-06T20:34:38.928003655Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 7f3419994592126e487fb1e98c0a5baae2e92e4c37c9dba344ae2e033ce4d511
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.8.tgz
+    version: 0.8.8
+  - appVersion: 4.9.4
+    created: 2018-03-01T19:04:19.318381695Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 7579cdb88b743b4edc5511b294a6a3ef01fa55cb3b6a12a69aea66c1a500f6f4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.7.tgz
+    version: 0.8.7
+  - appVersion: 4.9.4
+    created: 2018-02-23T10:04:11.521467763Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 48fdc44d8718f2842fc387924d21327f271e42aafb2ba896b0137f8eeab5267d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.6.tgz
+    version: 0.8.6
+  - appVersion: 4.9.4
+    created: 2018-02-23T04:19:18.78496723Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 09902a8f5d49a06aea77b8936c0b85afb33af13b1a8599d80eb01daf87113032
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.5.tgz
+    version: 0.8.5
+  - appVersion: 4.9.3
+    created: 2018-02-08T10:04:25.983245514Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 98be37cbb57b488a78ca0f95e01b754b18f6ddcf9b9029a7db530d471d4a66ed
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.4.tgz
+    version: 0.8.4
+  - appVersion: 4.9.2
+    created: 2018-02-06T15:34:17.673935694Z
+    description: Web publishing platform for building blogs and websites.
+    digest: ee44cb46c2bfa9e565a22d29d5901f900480b54ed043dd78005a4134bc3900d7
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.3.tgz
+    version: 0.8.3
+  - appVersion: 4.9.2
+    created: 2018-02-03T18:34:15.126055179Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 04b65c6448038c0043e092c2939d09c8056d409e7dedcf69c2def3b992ae6a05
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.2.tgz
+    version: 0.8.2
+  - appVersion: 4.9.2
+    created: 2018-01-25T15:49:13.553124029Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0947c5c2c701bff1ac1da6e2ac8ca5d05b95c4f764993cf27a6c6639542ebde9
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.1.tgz
+    version: 0.8.1
+  - appVersion: 4.9.1
+    created: 2018-01-16T22:04:08.582241812Z
+    description: Web publishing platform for building blogs and websites.
+    digest: b33a1646e90963a387406f4857f312476b4615222a36e354f7b9e62a2971ce9e
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.8.0.tgz
+    version: 0.8.0
+  - appVersion: 4.9.1
+    created: 2018-01-12T07:04:02.090458652Z
+    description: Web publishing platform for building blogs and websites.
+    digest: d54b28981ce97485a59d78acd43182e6d275efd451245c3420129d3cf2b1bfb5
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.10.tgz
+    version: 0.7.10
+  - appVersion: 4.9.1
+    created: 2018-01-10T15:19:01.17292241Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 88337f823951e048118e44dc7b7e1e6508dcac138612edff13bc63a3ec90a997
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.9.tgz
+    version: 0.7.9
+  - appVersion: 4.9.1
+    created: 2017-12-26T07:34:03.057336332Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 07f2323bc6559c973bd4f8deb3b5c83acb99c5aac93d2135b4f1690bf9a3be85
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.8.tgz
+    version: 0.7.8
+  - appVersion: 4.9.1
+    created: 2017-12-21T16:49:01.238782926Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 26d71a30ee0f845ff45854d96a69f18ded56038c473f13dcc43a572a7e9cd92d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.7.tgz
+    version: 0.7.7
+  - appVersion: 4.9.1
+    created: 2017-12-18T21:03:54.075332632Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 2b876af2ce8b43a06dd519ea6677f9d998732e864dfb836cd3a7db352f1723b5
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.6.tgz
+    version: 0.7.6
+  - appVersion: 4.9.1
+    created: 2017-12-13T09:04:00.125438813Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 74889e60a35dcffa4686f88bb23de863fed2b6e63a69b1f4858dde37c301885c
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.5.tgz
+    version: 0.7.5
+  - appVersion: 4.9.0
+    created: 2017-12-01T11:49:00.136950565Z
+    description: Web publishing platform for building blogs and websites.
+    digest: a69139ef3008eeb11ca60261ec2ded61e84ce7db32bb3626056e84bcff7ec270
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.4.tgz
+    version: 0.7.4
+  - appVersion: 4.9.0
+    created: 2017-11-22T01:33:53.4970039Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 4d1f8d304b839e82e427190d2d4dc9e90c475bbb8d2a0e546999bd500802551d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.3.tgz
+    version: 0.7.3
+  - appVersion: 4.9.0
+    created: 2017-11-17T16:04:32.37832596Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 59dec3ebe42013f53ab4d452881757b0bccfe6eda4c7deaca0752ad047cb0646
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.2.tgz
+    version: 0.7.2
+  - appVersion: 4.8.3
+    created: 2017-11-16T14:04:06.789238677Z
+    description: Web publishing platform for building blogs and websites.
+    digest: fee4c6f1bfe37e34adc05b26acd79c069adab5ad6ae7cde2aef374d91bef6a6b
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.1.tgz
+    version: 0.7.1
+  - appVersion: 4.8.2
+    created: 2017-11-01T17:49:03.602285715Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 6587f0eae62273197b5d58a6be64aa406966eeca5fd1a1ac9d1955b2316e399d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.7.0.tgz
+    version: 0.7.0
+  - appVersion: 4.8.2
+    created: 2017-10-24T09:04:29.852319213Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 5b9840f823fd100b92eeebc63d0a5c890bbc0b0d0d219508522166120d5ab821
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.13.tgz
+    version: 0.6.13
+  - appVersion: 4.8.1
+    created: 2017-09-27T19:33:54.768386395Z
+    description: Web publishing platform for building blogs and websites.
+    digest: a9aca8d7cdcbeb2dfb1d9c0a803890009db4681db36d84c220ca30b7ade1b624
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.12.tgz
+    version: 0.6.12
+  - appVersion: 4.8.1
+    created: 2017-09-09T21:34:01.571059633Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 67eb379ac12c40522f6fe4df62acc2c1547d4ace55217fd7530ed30ea59d51e9
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.11.tgz
+    version: 0.6.11
+  - appVersion: 4.8.1
+    created: 2017-09-04T14:34:30.80810305Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 94147de3296cad35cc5ad6493701e4a95b46ff0e92a16cbf0b2cfc0d1c01545a
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.10.tgz
+    version: 0.6.10
+  - appVersion: 4.8.1
+    created: 2017-08-10T05:03:51.825529612Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 14174a79926e23979cbb3441ff25a66e11c622702a7bc24e7697c94a26ec5363
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.9.tgz
+    version: 0.6.9
+  - appVersion: 4.8.0
+    created: 2017-08-03T04:48:51.408179407Z
+    description: Web publishing platform for building blogs and websites.
+    digest: f588f908cf3279c1bf37e12fd4d0d48fc4a234c73c46c790659395037742bbd4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.8.tgz
+    version: 0.6.8
+  - appVersion: "4.8"
+    created: 2017-07-11T17:33:47.13067391Z
+    description: Web publishing platform for building blogs and websites.
+    digest: b4bcb2ea89998cc5eeba899de6504ddb494c240c3ce65eefc02e405731ee7d5b
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.7.tgz
+    version: 0.6.7
+  - appVersion: "4.8"
+    created: 2017-06-26T20:33:43.637234961Z
+    description: Web publishing platform for building blogs and websites.
+    digest: d228819dc9f4c4f47b1c38192e1164cc8a215f9ce5d81ccf1e089017f01acd1f
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.6.tgz
+    version: 0.6.6
+  - created: 2017-06-24T13:03:36.747594645Z
+    description: Web publishing platform for building blogs and websites.
+    digest: fdc8f11da7bfb1d849da053c229c09a5943260b69610916f0144b274b8520a03
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.5.tgz
+    version: 0.6.5
+  - created: 2017-06-20T10:48:36.520277782Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 7c584609724d71a7a10edeef27d22bc8b3c02cfdd8a6532a336d5ae16f50d4dc
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.4.tgz
+    version: 0.6.4
+  - created: 2017-06-08T16:33:35.975579229Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0557cb91228984c3d6d5c4c1b5f69a28f0324dec08607560879782c072996567
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.3.tgz
+    version: 0.6.3
+  - created: 2017-06-07T00:18:37.303758144Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 2a4ac1cff525906cc24c22f939efab9a6c141f9d7421ff1de0e037d6b01d4db4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.2.tgz
+    version: 0.6.2
+  - created: 2017-05-22T14:03:35.281724054Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 397a2fb2a3a2814b1e08cdf085ffa91bdd7318efdb815d8a1bf1807ff5a3cb8d
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.1.tgz
+    version: 0.6.1
+  - created: 2017-05-10T15:48:37.881703688Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 8df4b37c471d43b5b3955ecadcc0da1dad31ba28a93ae0b74be5fc94debf2876
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.6.0.tgz
+    version: 0.6.0
+  - created: 2017-04-03T22:33:26.700088102Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 4413a17258eaca753252174a219ba9081283a406375d8ae49e5c1f3313c6619a
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.5.2.tgz
+    version: 0.5.2
+  - created: 2017-03-23T21:18:31.877594706Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 3e408baaa5110edfd730603bd5d49d7a8c222f49c7e9de1bd168b564463d57d9
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.5.1.tgz
+    version: 0.5.1
+  - created: 2017-03-16T13:33:30.866725941Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 40c767b4b2b7d494ea6da7a20a9fe58e76896a0bdad7c6c569f9d8cdab71f2e3
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.5.0.tgz
+    version: 0.5.0
+  - created: 2017-03-14T23:48:31.917245657Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 306220e3c19f1360644eade517a2a8ca422e8f9ec6ea9c65181ce8fc9797772f
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.4.3.tgz
+    version: 0.4.3
+  - created: 2017-03-08T19:03:31.755452536Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0689b452d3c9a9bee6e5c84b48172c68de6eedc253223b96ab6500ad88a5de40
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.4.2.tgz
+    version: 0.4.2
+  - created: 2017-02-13T04:33:52.323397093Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0fc412dea55069b368183afefb74342001a91a7f3a0e9126a921581d7740d61c
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.4.1.tgz
+    version: 0.4.1
+  - created: 2017-01-28T00:18:32.769124587Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 2f4a5d65350b36a6481c4c3d619f713835f091821d3f56c38c718061628ff712
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.4.0.tgz
+    version: 0.4.0
+  - created: 2017-01-04T00:48:19.757447587Z
+    description: Web publishing platform for building blogs and websites.
+    digest: f62b6f1728a33c5d59dd24dc6fb984f13d2dffac2bc6eec01724501e66ffc6a0
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.3.4.tgz
+    version: 0.3.4
+  - created: 2016-12-15T00:48:24.021239603Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 0c86b7cec5877a3c3c55d919b2f02ae52340c953afd9dc541ae0280bc23fe9aa
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.3.3.tgz
+    version: 0.3.3
+  - created: 2016-12-09T18:48:20.19465733Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 589e49370cb09f6d9ddb3ceba3b21f52697570cd4b40aff891a660c5daaa9bec
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.3.2.tgz
+    version: 0.3.2
+  - created: 2016-10-21T19:18:18.622178432Z
+    description: Web publishing platform for building blogs and websites.
+    digest: e70a072dcbb7252becc8899f54de8cb5977ceaea47197919c3990a6896adc350
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.3.1.tgz
+    version: 0.3.1
+  - created: 2016-10-19T00:03:14.037631856Z
+    description: Web publishing platform for building blogs and websites.
+    digest: 1c44515f02fb34b722dce1d8cf5fed0dfbbd2f8c03d63b335211b7bcb12b6dea
+    engine: gotpl
+    home: http://www.wordpress.com/
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-0.3.0.tgz
+    version: 0.3.0
