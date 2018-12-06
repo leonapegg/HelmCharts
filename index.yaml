@@ -25,3 +25,4 @@ entries:
   urls:
   - https://kubernetes-charts.storage.googleapis.com/wordpress-4.0.0.tgz
   version: 4.0.0
+  generated: 2016-11-18T15:05:51.077257234-07:00
