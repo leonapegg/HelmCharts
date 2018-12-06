@@ -1,28 +1,43 @@
 apiVersion: v1
 entries:
-  wordpress:
-  - appVersion: 4.9.8
-  created: 2018-12-06T09:25:16.737722306Z
-  description: Web publishing platform for building blogs and websites.
-  digest: af2ae4e28cf427dcb4374144288e4d36113c2cfcc200c9e9367a19ce06b80fff
-  engine: gotpl
-  home: http://www.wordpress.com/
-  icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
-  keywords:
-  - wordpress
-  - cms
-  - blog
-  - http
-  - web
-  - application
-  - php
-  maintainers:
-  - email: containers@bitnami.com
-    name: Bitnami
-  name: wordpress
-  sources:
-  - https://github.com/bitnami/bitnami-docker-wordpress
-  urls:
-  - https://kubernetes-charts.storage.googleapis.com/wordpress-4.0.0.tgz
-  version: 4.0.0
-  generated: 2016-11-18T15:05:51.077257234-07:00
+  alpine:
+  - created: 2016-11-18T15:05:51.078570269-07:00
+    description: Deploy a basic Alpine Linux pod
+    digest: f44f733d69008e86c3989d3b094a5e6151d168921a09eda61c0897472e2f0399
+    home: https://k8s.io/helm
+    name: alpine
+    sources:
+    - https://github.com/kubernetes/helm
+    urls:
+    - alpine-0.3.0.tgz
+    version: 0.3.0
+  - created: 2016-11-18T15:05:51.078096239-07:00
+    description: Deploy a basic Alpine Linux pod
+    digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
+    home: https://k8s.io/helm
+    name: alpine
+    sources:
+    - https://github.com/kubernetes/helm
+    urls:
+    - alpine-0.2.0.tgz
+    version: 0.2.0
+  - created: 2016-11-18T15:05:51.077842565-07:00
+    description: Deploy a basic Alpine Linux pod
+    digest: 515c58e5f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cd78727
+    home: https://k8s.io/helm
+    name: alpine
+    sources:
+    - https://github.com/kubernetes/helm
+    urls:
+    - alpine-0.1.0.tgz
+    version: 0.1.0
+  mink:
+  - apiVersion: v1
+    created: 2016-11-18T15:05:51.079623125-07:00
+    description: A Helm chart for Kubernetes
+    digest: 28e300f4bd90e49efc8c53cb631ea25f817e1e35da4f8131298bf79a06b6ec21
+    name: mink
+    urls:
+    - mink-0.1.0.tgz
+    version: 0.1.0
+generated: 2016-11-18T15:05:51.077257234-07:00
