@@ -8,7 +8,7 @@ entries:
     digest: 5655a7871462b1494c05b3371b8f7b44d7fbc6c1336923a58770ee4fa4d2eae5
     name: demo
     urls:
-    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.2.tgz
+    - https://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,7 +17,7 @@ entries:
     digest: 52e6f3ad2410965a2e7ff82e9a35a4c523d3e0a1d6bc744b9c80e90eb058291a
     name: demo
     urls:
-    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.1.tgz
+    - https://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,6 +26,6 @@ entries:
     digest: ff036346c823262e529518d4e7f766cf4f812301ffa945ea4d4520a652efe269
     name: demo
     urls:
-    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.0.tgz
+    - https://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.0.tgz
     version: 0.1.0
 generated: 2018-12-06T13:08:39.94438Z
