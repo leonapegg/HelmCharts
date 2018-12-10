@@ -1,43 +1,31 @@
 apiVersion: v1
 entries:
-  alpine:
-  - created: 2016-11-18T15:05:51.078570269-07:00
-    description: Deploy a basic Alpine Linux pod
-    digest: f44f733d69008e86c3989d3b094a5e6151d168921a09eda61c0897472e2f0399
-    home: https://k8s.io/helm
-    name: alpine
-    sources:
-    - https://github.com/kubernetes/helm
-    urls:
-    - alpine-0.3.0.tgz
-    version: 0.3.0
-  - created: 2016-11-18T15:05:51.078096239-07:00
-    description: Deploy a basic Alpine Linux pod
-    digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
-    home: https://k8s.io/helm
-    name: alpine
-    sources:
-    - https://github.com/kubernetes/helm
-    urls:
-    - alpine-0.2.0.tgz
-    version: 0.2.0
-  - created: 2016-11-18T15:05:51.077842565-07:00
-    description: Deploy a basic Alpine Linux pod
-    digest: 515c58e5f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cd78727
-    home: https://k8s.io/helm
-    name: alpine
-    sources:
-    - https://github.com/kubernetes/helm
-    urls:
-    - alpine-0.1.0.tgz
-    version: 0.1.0
-  mink:
+  demo:
   - apiVersion: v1
-    created: 2016-11-18T15:05:51.079623125-07:00
+    appVersion: "1.0"
+    created: 2018-12-06T13:08:39.946491Z
     description: A Helm chart for Kubernetes
-    digest: 28e300f4bd90e49efc8c53cb631ea25f817e1e35da4f8131298bf79a06b6ec21
-    name: mink
+    digest: 5655a7871462b1494c05b3371b8f7b44d7fbc6c1336923a58770ee4fa4d2eae5
+    name: demo
     urls:
-    - mink-0.1.0.tgz
+    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-06T13:08:39.946259Z
+    description: A Helm chart for Kubernetes
+    digest: 52e6f3ad2410965a2e7ff82e9a35a4c523d3e0a1d6bc744b9c80e90eb058291a
+    name: demo
+    urls:
+    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-06T13:08:39.945521Z
+    description: A Helm chart for Kubernetes
+    digest: ff036346c823262e529518d4e7f766cf4f812301ffa945ea4d4520a652efe269
+    name: demo
+    urls:
+    - gs://bucket-virginwifi-core-dev-helmcharts/helm/demo-0.1.0.tgz
     version: 0.1.0
-generated: 2016-11-18T15:05:51.077257234-07:00
+generated: 2018-12-06T13:08:39.94438Z
