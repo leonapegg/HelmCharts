@@ -1,0 +1,50 @@
+# This is an example
+#
+
+
+steps:
+
+  #
+  # Building
+  #
+
+  - id: build-builder
+    name: gcr.io/cloud-builders/docker
+    args: ['build', '--rm=false', '-t', 'eu.gcr.io/$PROJECT_ID/gckb-example-builder', '-f', 'Dockerfile.builder', '.']
+
+
+  - id: build
+    name: eu.gcr.io/$PROJECT_ID/gckb-example-builder
+    args: ['./scripts/build.sh']
+    waitFor:
+      - build-builder
+
+  #
+  # Testing
+  #
+
+  - id: lint
+    name: eu.gcr.io/$PROJECT_ID/gckb-example-builder
+    args: ['./scripts/lint.sh']
+    waitFor:
+      - build-builder
+
+  - id: run-tests
+    name: eu.gcr.io/$PROJECT_ID/gckb-example-builder
+    args: ['./scripts/test.sh']
+    waitFor:
+      - build
+
+  #
+  # Deploying
+  #
+
+  - id: deploy
+    name: eu.gcr.io/$PROJECT_ID/gckb-example-builder
+    args: ['./scripts/deploy.sh $COMMIT_SHA']
+    env:
+      - PROJECT_ID=$PROJECT_ID
+      - CREDS_BUCKET_NAME=gckb-example-creds
+    waitFor:
+      - run-tests
+      - lint
